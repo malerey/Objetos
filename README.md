@@ -3,9 +3,9 @@
 ### Ejercicio 1
 
 * Crear una variable llamada `user`, a la que le vamos a asignar un objeto.
-* El objeto tiene que tener 3 propiedades: **fullname**, **email**, **age**, con tus datos 
+* El objeto tiene que tener 3 propiedades: **firstName**, **lastName** **email**, **age**, con tus datos 
 * Mostrar en consola el objeto `user`
-* Mostrar en la consola el nombre y la edad de la persona: "Hola, mi nombre es **[ACA EL NOMBRE]** y tengo **[ACA LA EDAD]** años"
+* Mostrar en la consola el nombre y la edad de la persona: "Hola, mi nombre es **[ACA EL NOMBRE DE PILA]** y tengo **[ACA LA EDAD]** años"
 
 ### Ejercicio 2
 
