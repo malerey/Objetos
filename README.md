@@ -9,7 +9,7 @@
 
 ### Ejercicio 2
 
-* Tenemos un listado de personas y necesitamos guardarlo en una se de datos
+* Tenemos un listado de personas y necesitamos guardarlo en una base de datos
 * Los datos que tenemos son un id, email, nombre y teléfono
 * Crear un objeto para cada persona que nos pasaron
 * Mostrar por consola todos los objetos creados
