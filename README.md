@@ -3,13 +3,13 @@
 ### Ejercicio 1
 
 * Crear una variable llamada `user`, a la que le vamos a asignar un objeto.
-* El objeto tiene que tener 3 propiedades: **firstName**, **lastName** **email**, **age**, con tus datos 
+* El objeto tiene que tener 4 propiedades: **firstName**, **lastName**, **email**, **age**, con tus datos 
 * Mostrar en consola el objeto `user`
 * Mostrar en la consola el nombre y la edad de la persona: "Hola, mi nombre es **[ACA EL NOMBRE DE PILA]** y tengo **[ACA LA EDAD]** años"
 
 ### Ejercicio 2
 
-* Tenemos un listado de personas y necesitamos guardarlo en una base de datos
+* Tenemos un listado de personas y necesitamos guardarlo en una se de datos
 * Los datos que tenemos son un id, email, nombre y teléfono
 * Crear un objeto para cada persona que nos pasaron
 * Mostrar por consola todos los objetos creados
