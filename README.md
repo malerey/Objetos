@@ -84,7 +84,7 @@ tecnologiasConocidas: [el array que creaste recien]
 
 ### Ejercicio 6
 
-* Crear una funcion llamada mostrarTecnologias que reciba como parametros las propiedades recien creadas
+* Crear una funcion llamada mostrarTecnologias que reciba como parametros el objeto (incluyendo las propiedades recien creadas)
 * Dentro de la funcion, crear la siguiente lógica:
 * Si la propiedad "sabeProgramar" es true, mostrar en consola la siguiente frase: "Hola, mi nombre es [ACA EL NOMBRE] y programo en [ACA EL LISTADO DE LENGUAJES/TECNOLOGIAS]"
 * Ejecutar la funcion 
